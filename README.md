@@ -2,7 +2,7 @@
 
 This windows installer installs the Colemak-DH Matrix layout in the Windows. This installer's purpose is to replace the Autohotkeys executable file during startup. Also, able to use "Windows key" with any key without misread when using Autohotkeys. 
 
-By no means Autohotkeys is bad but IMO it is just not suitable for using it as a keyboard layout.
+By no means Autohotkeys is bad but IMO it is just not suitable for me to use it as a keyboard layout.
 
 ---
 
